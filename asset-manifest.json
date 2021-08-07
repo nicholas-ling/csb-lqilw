@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://nicholas-ling.github.io/csb-lqilw/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://nicholas-ling.github.io/csb-lqilw/static/js/main.d761fe3d.chunk.js",
+    "main.js.map": "https://nicholas-ling.github.io/csb-lqilw/static/js/main.d761fe3d.chunk.js.map",
+    "runtime~main.js": "https://nicholas-ling.github.io/csb-lqilw/static/js/runtime~main.35a54368.js",
+    "runtime~main.js.map": "https://nicholas-ling.github.io/csb-lqilw/static/js/runtime~main.35a54368.js.map",
+    "static/js/2.11f62b8d.chunk.js": "https://nicholas-ling.github.io/csb-lqilw/static/js/2.11f62b8d.chunk.js",
+    "static/js/2.11f62b8d.chunk.js.map": "https://nicholas-ling.github.io/csb-lqilw/static/js/2.11f62b8d.chunk.js.map",
+    "index.html": "https://nicholas-ling.github.io/csb-lqilw/index.html",
+    "precache-manifest.19485d776cf72fcab73f9bdc89b442cc.js": "https://nicholas-ling.github.io/csb-lqilw/precache-manifest.19485d776cf72fcab73f9bdc89b442cc.js",
+    "service-worker.js": "https://nicholas-ling.github.io/csb-lqilw/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://nicholas-ling.github.io/csb-lqilw/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
