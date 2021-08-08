@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cb42d3762ac76d68b66bf202b1c19e5",
+    "revision": "0754bf575e72b6b097679e7b20957278",
     "url": "https://nicholas-ling.github.io/csb-lqilw/index.html"
   },
   {
-    "revision": "2db362474067181a0663",
+    "revision": "fb51e7ffcd4a08944e47",
     "url": "https://nicholas-ling.github.io/csb-lqilw/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "e7778107375426c2c4e5",
-    "url": "https://nicholas-ling.github.io/csb-lqilw/static/js/2.11f62b8d.chunk.js"
+    "revision": "e34a3514b800e6c28ce5",
+    "url": "https://nicholas-ling.github.io/csb-lqilw/static/js/2.4c0771c5.chunk.js"
   },
   {
-    "revision": "2db362474067181a0663",
-    "url": "https://nicholas-ling.github.io/csb-lqilw/static/js/main.d761fe3d.chunk.js"
+    "revision": "fb51e7ffcd4a08944e47",
+    "url": "https://nicholas-ling.github.io/csb-lqilw/static/js/main.e6f1585f.chunk.js"
   },
   {
     "revision": "2708f62b676ceb29ecf2",
